@@ -17,4 +17,4 @@
 - Trim removes white space from start and end of the string
 
 
- - In javascript there are 6 data types 5 of them are described as simple or primitive data types the thicks is object and is referred to as a complex data type
+ - In javascript there are 6 data types 5 of them are described as simple or primitive data types the sixth is object and is referred to as a complex data type
